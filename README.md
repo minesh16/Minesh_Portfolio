@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# Minesh Chunawala
+## | Technologist | Data Scientist | Leader |
+### Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/minesh16/Minesh_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a creative problem solver with 13+ years of experience areas like Engineering, Data Science, Telco, Customer Service & Marketing.
+I am a Microsoft certified Data Scientist with qualifications in Machine Learning(ML) & ArtificialIntelligence(AI) and known for influencing business leaders on data
+driven strategic outcomes and fostering strong stakeholder relationships.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
